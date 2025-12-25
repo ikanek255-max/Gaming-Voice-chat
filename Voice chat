@@ -1,0 +1,6 @@
+got init
+git add .
+git commit -m
+https://github.com/ikanek255-max/Gaming-Voice-chat.git
+git branch -M main
+git push -u origin main
